@@ -11,14 +11,14 @@ submissions:
   Dmitry Vizersky:
     repository:
     notes: ""
-  Eric Dowty:
-    repository:
+  Eric Dowty: 
+    repository: https://github.com/eric-dowty/web_guesser
     notes: ""
   Eugene Khanutin:
     repository:
     notes: ""
   Jack Yeh:
-    repository:
+    repository: https://github.com/jxandery/web_guesser
     notes: ""
   Jamie Kawahara:
     repository: https://github.com/androidgrl/webguesser
@@ -30,22 +30,22 @@ submissions:
     repository: https://github.com/kristinabrown/web-guesser
     notes: ""
   Kyle Henson:
-    repository:
+    repository: https://github.com/kylehenson/web_guesser
     notes: ""
   Michael Merrill:
     repository:
     notes: ""
   Michelle Golle:
-    repository:
+    repository: https://github.com/MichelleGolle/web-guesser
     notes: ""
   Mihir Parikh:
-    repository:
+    repository: https://github.com/mihir787/web_guesser
     notes: ""
   Minnie Lee:
     repository: https://github.com/MLee21/web_guesser
     notes: ""
   Patrick Medaugh:
-    repository:
+    repository: https://github.com/patrickmedaugh/Web-Guesser
     notes: ""
   Rob Cornell:
     repository:
@@ -59,9 +59,9 @@ submissions:
   Tony DiNitto:
     repository:
     notes: ""
-  Tracy Caruso:
+  Tracy Caruso: https://github.com/ycartc/web_guesser
     repository:
     notes: ""
   Tyler Graham:
-    repository:
+    repository: https://github.com/tgraham777/web_guesser
     notes: ""

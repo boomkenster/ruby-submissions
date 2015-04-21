@@ -1,66 +1,48 @@
 submissions:
   Andrew Carmer:
-    repository:
+    repository: https://github.com/carmer/task_manager
     notes: ""
-  Chelsea Worrel:
-    repository:
-    notes: ""
-  David Daniel:
-    repository:
-    notes: ""
-  Dmitry Vizersky:
-    repository:
+  David Daniel: 
+    repository: https://github.com/davedan7/task_manager
     notes: ""
   Eric Dowty:
-    repository:
-    notes: ""
-  Eugene Khanutin:
-    repository:
+    repository: https://github.com/eric-dowty/task_manager
     notes: ""
   Jack Yeh:
-    repository:
+    repository:https://github.com/jxandery/task_manager
     notes: ""
   Jamie Kawahara:
-    repository:
-    notes: ""
+    repository: https://github.com/androidgrl/task-manager
+    notes:
   Kenny Chen:
     repository: https://github.com/boomkenster/task_manager
     notes: ""
   Kristina Brown:
-    repository:
+    repository: https://github.com/kristinabrown/task-manager
     notes: ""
   Kyle Henson:
-    repository:
-    notes: ""
-  Michael Merrill:
-    repository:
+    repository: https://github.com/kylehenson/task_manager
     notes: ""
   Michelle Golle:
     repository:
     notes: ""
-  Mihir Parikh:
-    repository:
+  Mihir Parikh: 
+    repository: https://github.com/mihir787/task_mananger
     notes: ""
-  Minnie Lee:
-    repository:
+  Minnie Lee: 
+    repository: https://github.com/MLee21/task_manager
     notes: ""
   Patrick Medaugh:
-    repository:
+    repository: https://github.com/patrickmedaugh/Task-Manager
     notes: ""
-  Rob Cornell:
-    repository:
-    notes: ""
-  Tess Griffin:
-    repository:
+  Tess Griffin: 
+    repository: https://github.com/tessgriffin/task_manager
     notes: ""
   Thomas Leskin:
-    repository:
-    notes: ""
-  Tony DiNitto:
-    repository:
+    repository: https://github.com/tleskin/task_manager
     notes: ""
   Tracy Caruso:
-    repository:
+    repository: https://github.com/ycartc/task_manager
     notes: ""
   Tyler Graham:
     repository:
